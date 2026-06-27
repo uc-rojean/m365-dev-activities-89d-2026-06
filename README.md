@@ -78,3 +78,33 @@
 - All business-related planning and discussions remain strictly separated and are not included in this repository.
 
 ---
+
+
+#### UC Day 02 – 87 days remaining (June 27, 2026, Saturday)
+- **Planned Date:** June 27, 2026 (87 days remaining)
+- **Actual Run:** June 27, 2026 12:52 GMT+8 — Structured Planning Session
+- **Status:** Completed
+
+##### Situation / Context
+- Ongoing SharePoint and OneDrive access limitation remains under backend review via active support case.
+- Development activities are being re-initiated following renewal of the Microsoft 365 Developer Sandbox.
+- Focus has shifted toward structured reconstruction planning while core services are still under remediation.
+
+##### Dev Activities
+- Initiated structured planning for SharePoint-based system architecture.
+- Defined preliminary internal structure model to support scalable organization design.
+- Reviewed and aligned document naming approach for consistency across environments.
+- Prepared initial blueprint for SharePoint and OneDrive usage (concept-level only, no implementation).
+- Established foundation direction for controlled and governance-aligned system design.
+
+##### Support & Escalation Tracking
+- No new updates received from Microsoft Support since June 15, 2026.
+- Case remains active and under ongoing backend review.
+
+##### Notes
+- Activities focused on planning, structure definition, and system alignment (no active service deployment).
+- All sensitive details and business logic remain outside the public repository.
+- This session marks the start of structured reconstruction aligned with long-term development and commercial readiness.
+
+
+---
