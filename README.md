@@ -774,3 +774,16 @@ Completed
 - Detailed business processes, implementation plans, organizational strategies, infrastructure decisions, and commercial planning activities remain confidential and intentionally excluded from the public repository.
 
 ---
+
+
+###### Additional Update (17:39 GMT+8)
+- Microsoft Support provided a follow-up update regarding the ongoing SharePoint and OneDrive access issue.
+- Support confirmed that the case remains active, is being closely monitored, and has been brought to the attention of the appropriate leadership team for continued review.
+- No additional information or action was requested from our side.
+- Acknowledgement response was provided and support was informed that development readiness, documentation, and environment preparation activities continue while awaiting further investigation updates.
+- The case remains under active monitoring pending future communication from Microsoft Support.
+
+Additional Status:
+Completed
+
+---
