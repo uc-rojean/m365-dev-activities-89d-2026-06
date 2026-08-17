@@ -1993,7 +1993,7 @@ Completed
 
 ---
 
-###### Additional Update (21:19 GMT+8)
+##### Additional Update (21:19 GMT+8)
 
 - Microsoft Support provided a follow-up update regarding the ongoing SharePoint and OneDrive access issue.
 
