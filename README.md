@@ -2128,7 +2128,7 @@ Completed
 ---
 
 
-### Additional Update (August 21, 2026 | 03:30 GMT+8)
+##### Additional Update (August 21, 2026 | 03:30 GMT+8)
 
 A follow-up update was received from Microsoft Support regarding the ongoing SharePoint and OneDrive access investigation under Tracking ID #2604060030006585.
 
